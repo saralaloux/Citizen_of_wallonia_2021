@@ -4,5 +4,7 @@ We did not win any prizes, except for the experience and friendship.
 
 [Go the the github](https://github.com/Freyaln/Becode-training-exercices/tree/main/Hackaton%20Citizen%20of%20Wallonia/Hackaton)
 
+[Go to the website](https://freyaln.github.io/Hackaton/homepage.html)
+
 
 
